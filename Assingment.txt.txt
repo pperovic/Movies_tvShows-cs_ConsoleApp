@@ -1,0 +1,9 @@
+/*Implement the following classes: Cat, Lion, Monkey.
+    All of them are animals(Animal). Animals are characterized by age,
+    name and gender.Some species have also species-specific properties(ie.monkey breed or WasCapturedFromWild).
+Each species makes a diffrent sound(use a virtual method in the Animal class).
+
+Implement the Zoo class containing info about the zoo and a list of different animals.
+    Create a function of Zoo that returns a formatted string of all the animals' name, age and the corresponding sound each one makes. Create a function that sorts the list by Animals' age
+    
+    (use IComperable on Animal). */

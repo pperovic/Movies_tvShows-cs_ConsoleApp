@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# .NET\TV_film_Serija\TV_film_Serija\bin\Debug\TV_film_Serija.exe.config
+C:\Users\User\Desktop\C# .NET\TV_film_Serija\TV_film_Serija\bin\Debug\TV_film_Serija.exe
+C:\Users\User\Desktop\C# .NET\TV_film_Serija\TV_film_Serija\bin\Debug\TV_film_Serija.pdb
+C:\Users\User\Desktop\C# .NET\TV_film_Serija\TV_film_Serija\obj\Debug\TV_film_Serija.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# .NET\TV_film_Serija\TV_film_Serija\obj\Debug\TV_film_Serija.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# .NET\TV_film_Serija\TV_film_Serija\obj\Debug\TV_film_Serija.exe
+C:\Users\User\Desktop\C# .NET\TV_film_Serija\TV_film_Serija\obj\Debug\TV_film_Serija.pdb
